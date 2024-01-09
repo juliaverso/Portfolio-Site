@@ -42,10 +42,11 @@ h1{
 }
 
 .caixa{
-    padding: 8% 15%;
+    padding: 4% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 30px;
 
 }
 
@@ -53,9 +54,11 @@ h1{
     width: 615px; 
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 40px;
     
 }
+
 
 .botoes{
     display: flex;
@@ -67,8 +70,8 @@ h1{
 }
 
 .perfil{
-    height: 45%;
- width: 45%;
+    height: 40%;
+ width: 40%;
  object-fit:contain;
  
 }

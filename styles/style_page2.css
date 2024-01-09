@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@200;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #1f6c7e6c;
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.cabecalho_menu{
+    text-decoration: none;
+    color: #F6F6F6;
+}
+.caixa{
+    box-sizing: border-box;
+    background-color: #eeeeee;
+}
+.rodape{
+    background-color: #1f6c7e6c;
+    color: #F6F6F6;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+}
+
